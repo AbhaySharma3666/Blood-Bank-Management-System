@@ -127,10 +127,14 @@ Modify the db.properties file with your MySQL credentials and use JDBC to connec
 3. Set up MySQL Connector/J in IntelliJ IDEA (as shown above).
 4. Compile & run the Java project in IntelliJ IDEA
 
+---
+
 ### 🎯 Future Enhancements
 🔹 Add Admin Dashboard
 🔹 Implement Donation History tracking
 🔹 Integrate SMS/Email notifications
+
+---
 
 ### 🖼️ Panel Image
 ![Screenshot 2025-03-27 201552](https://github.com/user-attachments/assets/6dfaaa04-fc51-4260-9243-237680ef2e43)
@@ -142,6 +146,8 @@ Modify the db.properties file with your MySQL credentials and use JDBC to connec
 ![Screenshot 2025-03-27 201851](https://github.com/user-attachments/assets/60e6108b-0386-4779-8586-ba32de8712ef)
 ![Screenshot 2025-03-27 201908](https://github.com/user-attachments/assets/49153df7-f799-408f-bd77-679c8a45c02b)
 ![Screenshot 2025-03-27 201932](https://github.com/user-attachments/assets/ae4f9ea7-239a-49d9-b253-957dfec24079)
+
+---
 
 
 ### 🤝 Contributing
